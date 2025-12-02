@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [Master](README.md)
+* [Fade](fade.md)
