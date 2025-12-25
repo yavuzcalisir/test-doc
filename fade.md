@@ -1,3 +1,0 @@
-# Fade
-
-fade to black
