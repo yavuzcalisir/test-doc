@@ -1,2 +1,2 @@
-# SDK
+# Getting Started
 

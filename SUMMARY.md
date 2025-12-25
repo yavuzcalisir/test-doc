@@ -1,10 +1,13 @@
 # Table of contents
 
-* [SDK](README.md)
-  * [Android](sdk/android/README.md)
-    * [Getting Started](sdk/android/getting-started.md)
-    * [Custom Event](sdk/android/custom-event.md)
-    * [Notifications](sdk/android/notifications/README.md)
-      * [Remote](sdk/android/notifications/remote.md)
-      * [Local](sdk/android/notifications/local.md)
-  * [iOS](sdk/ios.md)
+## Android
+
+* [Getting Started](README.md)
+* [Custom Event](android/custom-event.md)
+* [Notifications](android/notifications/README.md)
+  * [Remote](android/notifications/remote.md)
+  * [Local](android/notifications/local.md)
+
+## iOS
+
+* [Page 2](ios/page-2.md)
